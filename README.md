@@ -1,9 +1,3 @@
-### Hi there 👋
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dltngurxodud&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dltngurxodud&hide_progress=Demo)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=성혁%20Github&fontSize=90&fontAlignY=40" />
