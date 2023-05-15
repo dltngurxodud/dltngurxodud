@@ -6,7 +6,7 @@
 
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Jinhyeok%20Github&fontSize=90&fontAlignY=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=dltngurxodud%20Github&fontSize=90&fontAlignY=40" />
 
 <!-- 공부 -->
 <h1>:books: Technology Stack </h1>
@@ -31,9 +31,9 @@
 	<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white" />
 <br/><br/>
-	<!--img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jangjh45&layout=compact"-->
+	<!--img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dltngurxodud&layout=compact"-->
 	<br><br>
-	<img src="https://github-readme-stats.vercel.app/api?username=jangjh45"/>
+	<img src="https://github-readme-stats.vercel.app/api?username=dltngurxodud"/>
 	
 </div>
 
